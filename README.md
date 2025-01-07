@@ -3,7 +3,7 @@
 <div align="left">
   <div style="display: flex; align-items: center;">
     <div>
-      ### 🧑‍💻 About Me  
+      🧑‍💻 About Me  
       - **Entrepreneur & Business Owner**: Founder of [Startino](https://starti.no), helping non-tech entrepreneurs build and launch successful AI products.  
       - **Tech Enthusiast**: Specializing in AI, full-stack development, and software for startups.  
       - **Fitness & Lifestyle**: Practicing jiu-jitsu, gym enthusiast, watch collector, and fashion lover with an eye for the old-money aesthetic.  

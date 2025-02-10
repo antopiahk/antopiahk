@@ -4,7 +4,7 @@
   <div>
     <h3>🧑‍💻 About Me</h3>
     <ul>
-      <li><strong>Entrepreneur & Business Owner</strong>: CEO of <a href="https://starti.no">Startino</a>, helping non-tech entrepreneurs build and launch successful AI products.</li>
+      <li><strong>Entrepreneur & Business Owner</strong>: CEO of <a href="https://starti.no">Startino</a>, helping non-tech entrepreneurs build and launch successful SaaS products.</li>
       <li><strong>Tech Enthusiast</strong>: Specializing in AI, full-stack development, and software for startups.</li>
       <li><strong>Fitness & Lifestyle</strong>: Practicing jiu-jitsu, gym enthusiast, watch collector, and fashion lover with an eye for the old-money aesthetic.</li>
     </ul>
